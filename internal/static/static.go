@@ -2,7 +2,7 @@ package static
 
 // These variables represent the values that may be changed using ldflags
 var (
-	Version                   = "dev"
+	Version                   = "euclidOS"
 	EnvironmentVariablePrefix = "PASTY_"
 
 	// TempFrontendPath defines the path where pasty loads the web frontend from; it will be removed any time soon
